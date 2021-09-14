@@ -31,6 +31,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'captcha',
     'bootstrap4',
     'django_cleanup',
     'easy_thumbnails',
